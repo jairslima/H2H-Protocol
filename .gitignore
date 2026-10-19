@@ -31,3 +31,7 @@ Chave secreta*
 
 mailbox.json
 node_modules/
+
+# Seguranca - auditoria automatica
+credentials.*
+*.pfx
